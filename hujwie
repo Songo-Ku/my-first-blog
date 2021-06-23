@@ -1,0 +1,38 @@
+mam 3 kompy,
+
+1 git
+
+branche
+dev
+master
+
+issue
+
+
+
+gitcheckout -b tworzy a bez bez przelacza
+
+git fetch
+git remote jakie mam zewnetrzne
+
+
+klucze ssh
+
+git clone
+wejsc do pliczku
+
+https://github.com/Songo-Ku/v2-my-first-blog
+
+git remote add origin https://github.com/Songo-Ku/v2-my-first-blog.git
+
+
+git push set remote
+git push -u origin "nazwa brancha"
+
+
+
+jezyk systemowy
+git bash prompt
+ 
+ 
+ freeze
